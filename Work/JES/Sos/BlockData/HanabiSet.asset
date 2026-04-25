@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4acd5c7e5da049abbf715fe3b6a6e9cb, type: 3}
+  m_Name: HanabiSet
+  m_EditorClassIdentifier: 
+  towerTilePositions:
+  - {x: 1, y: 0, z: -1}
+  - {x: 0, y: 0, z: -1}
+  - {x: 1, y: 0, z: -2}
+  towerName: "\uD3ED\uC8FD \uBE14\uB7ED"
+  towerDescription: "\uB9DE\uC73C\uBA74 \uD130\uC9C0\uBA74\uC11C \uAD11\uC5ED\uB370\uBBF8\uC9C0\uB97C
+    \uC785\uD788\uB294 \uBE14\uB7ED\uC785\uB2C8\uB2E4 "
+  towerPrefab: {fileID: 7046906962544545983, guid: 29f38f4a2775c6f47821c0e06d926924, type: 3}

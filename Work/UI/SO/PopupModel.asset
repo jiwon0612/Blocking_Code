@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2cb27b786e704c4cb424bf33e4db33e, type: 3}
+  m_Name: PopupModel
+  m_EditorClassIdentifier: 
+  blueLabel: {fileID: 21300000, guid: c3c3dcbd27abc41fdb9dda7f427e5700, type: 3}
+  redLabel: {fileID: 21300000, guid: dba9f2fc098824038b3f016cdbcda213, type: 3}
+  orangeLabel: {fileID: 21300000, guid: acc715c2612e34e4cac7546288327ba6, type: 3}
+  purpleLabel: {fileID: 21300000, guid: 0871cb8c4af1d4e31a1bc0ae9cee0a18, type: 3}
+  blueButton: {fileID: 21300000, guid: 19f84389193584d7ab2d7846ae4c8ede, type: 3}
+  grayButton: {fileID: 21300000, guid: 421f361155f20450d8540ec47bdf138f, type: 3}
+  greenButton: {fileID: 21300000, guid: d08f60ef09739438ca3ab0cde6f4720f, type: 3}
+  mintButton: {fileID: 21300000, guid: 3b138056c48cc4b0b9212a17f2770603, type: 3}
+  navyButton: {fileID: 21300000, guid: 906a104b67bbe476ba0bc6bdae09fc44, type: 3}
+  orangeButton: {fileID: 21300000, guid: efb6c9334e498404883cd7150d537d74, type: 3}
+  pinkButton: {fileID: 21300000, guid: f9f1b64e6369b46c485fca9431befb71, type: 3}
+  purpleButton: {fileID: 21300000, guid: 211fbaf7fa0004e158870d1ecb769fd2, type: 3}
+  redButton: {fileID: 21300000, guid: 791c526937096414e963087cf56599d7, type: 3}
+  yellowButton: {fileID: 21300000, guid: 64e66d50a131a4abaa8d4ebe129b2b72, type: 3}

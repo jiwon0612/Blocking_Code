@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4acd5c7e5da049abbf715fe3b6a6e9cb, type: 3}
+  m_Name: Ballista
+  m_EditorClassIdentifier: 
+  towerTilePositions:
+  - {x: 1, y: 0, z: -1}
+  - {x: -1, y: 0, z: -1}
+  - {x: 0, y: 0, z: -1}
+  towerName: "\uC11D\uAD81 \uBE14\uB7ED"
+  towerDescription: "\uC0AC\uAC70\uB9AC\uAC00 \uAE34 \uBE14\uB7ED\uC785\uB2C8\uB2E4"
+  towerPrefab: {fileID: 7507169298468528277, guid: 35775b3eee8f77f44a3013bc0e2fa725, type: 3}

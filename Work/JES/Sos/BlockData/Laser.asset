@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4acd5c7e5da049abbf715fe3b6a6e9cb, type: 3}
+  m_Name: Laser
+  m_EditorClassIdentifier: 
+  towerTilePositions:
+  - {x: -1, y: 0, z: 0}
+  - {x: -1, y: 0, z: -1}
+  - {x: -1, y: 0, z: -2}
+  towerName: "\uD06C\uB9AC\uC2A4\uD0C8 \uBE14\uB7ED"
+  towerDescription: "\uB808\uC774\uC800\uB97C \uC3D8\uB294 \uBE14\uB7ED\uC785\uB2C8\uB2E4"
+  towerPrefab: {fileID: 693734161567341519, guid: 33719af978853624aaf4870400beffe8, type: 3}
